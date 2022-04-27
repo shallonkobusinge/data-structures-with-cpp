@@ -1,3 +1,0 @@
-C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays/cmake-build-debug/CMakeFiles/arrays.dir
-C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
