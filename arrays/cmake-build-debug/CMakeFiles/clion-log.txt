@@ -1,4 +1,4 @@
-C:\Users\kobsh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/ninja/win/ninja.exe -G Ninja C:\Users\kobsh\Documents\DSA\arrays
+C:\Users\kobsh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\kobsh\Documents\YEAR2\C++\PROGRAMS\arrays
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Users\kobsh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\c
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/kobsh/Documents/DSA/arrays/cmake-build-debug
+-- Build files have been written to: C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays/cmake-build-debug

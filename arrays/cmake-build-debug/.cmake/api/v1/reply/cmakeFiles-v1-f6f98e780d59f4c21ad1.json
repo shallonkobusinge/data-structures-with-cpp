@@ -7,6 +7,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/CMakeMinGWFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/CMakeDetermineSystem.cmake"
 		},
 		{
@@ -524,6 +529,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Users/kobsh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -757,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/kobsh/Documents/DSA/arrays/cmake-build-debug",
-		"source" : "C:/Users/kobsh/Documents/DSA/arrays"
+		"build" : "C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays/cmake-build-debug",
+		"source" : "C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/arrays"
 	},
 	"version" : 
 	{
