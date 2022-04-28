@@ -1,15 +1,14 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/DEQUEUE/usingLinkedList/main.cpp" "C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/DEQUEUE/usingLinkedList/cmake-build-debug/CMakeFiles/usingLinkedList.dir/main.cpp.obj"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/QUEUE/DEQUEUE/usingLinkedList/main.cpp" "CMakeFiles/usingLinkedList.dir/main.cpp.obj" "gcc" "CMakeFiles/usingLinkedList.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

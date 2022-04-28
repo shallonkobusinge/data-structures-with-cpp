@@ -11,8 +11,7 @@ struct Deque{
 
 Deque* create( Deque *deque, int size){
     deque = new Deque();
-    deque->front =
-            deque->rear = -1;
+    deque->front = deque->rear = -1;
     deque->size = size;
     deque->arr = new int[deque->size];
 }

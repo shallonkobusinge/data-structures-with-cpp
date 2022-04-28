@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/usingArrays.dir/usingArrays.cpp.obj"
+  "CMakeFiles/usingArrays.dir/usingArrays.cpp.obj.d"
   "libusingArrays.dll.a"
   "usingArrays.exe"
   "usingArrays.exe.manifest"
