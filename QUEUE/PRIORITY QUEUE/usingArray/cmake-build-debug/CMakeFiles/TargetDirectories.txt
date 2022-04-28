@@ -1,0 +1,3 @@
+C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/PRIORITY QUEUE/usingArray/cmake-build-debug/CMakeFiles/usingArray.dir
+C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/PRIORITY QUEUE/usingArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/PRIORITY QUEUE/usingArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

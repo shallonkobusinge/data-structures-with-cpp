@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DELL/Documents/YEAR2/C++/TERM 3/QUEUE/PRIORITY QUEUE/usingLInkedList/main.cpp
+iostream
+-
+conio.h
+-
+cstdlib
+-
+

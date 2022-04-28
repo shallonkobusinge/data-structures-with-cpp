@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\usingLinkedList.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\usingLinkedList.dir/objects.a @CMakeFiles\usingLinkedList.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\usingLinkedList.dir/objects.a -Wl,--no-whole-archive  -o usingLinkedList.exe -Wl,--out-implib,libusingLinkedList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\usingLinkedList.dir\linklibs.rsp

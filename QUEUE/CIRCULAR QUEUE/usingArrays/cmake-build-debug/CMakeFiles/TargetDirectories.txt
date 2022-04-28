@@ -1,0 +1,3 @@
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/QUEUE/CIRCULAR QUEUE/usingArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/QUEUE/CIRCULAR QUEUE/usingArrays/cmake-build-debug/CMakeFiles/usingArrays.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/QUEUE/CIRCULAR QUEUE/usingArrays/cmake-build-debug/CMakeFiles/edit_cache.dir

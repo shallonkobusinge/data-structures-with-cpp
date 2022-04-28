@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\priorityQueue.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\priorityQueue.dir/objects.a @CMakeFiles\priorityQueue.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\priorityQueue.dir/objects.a -Wl,--no-whole-archive  -o priorityQueue.exe -Wl,--out-implib,libpriorityQueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\priorityQueue.dir\linklibs.rsp
