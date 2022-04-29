@@ -1,0 +1,3 @@
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/INTRO/TEMPLATES/class-based/cmake-build-debug/CMakeFiles/class_based.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/INTRO/TEMPLATES/class-based/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/INTRO/TEMPLATES/class-based/cmake-build-debug/CMakeFiles/rebuild_cache.dir
