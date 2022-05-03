@@ -1,0 +1,3 @@
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/VECTOR/cmake-build-debug/CMakeFiles/VECTOR.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/VECTOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kobsh/Documents/YEAR2/C++/PROGRAMS/VECTOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
